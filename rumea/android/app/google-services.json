@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779632805305",
+    "project_id": "rumea1",
+    "storage_bucket": "rumea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779632805305:android:74ab8b3ef1da7100bd2268",
+        "android_client_info": {
+          "package_name": "za.co.stemgon.rumea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779632805305-vm86o55s0eh98f0vgq1hn9cuem5m5cm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKtKDL1NWvHQ57Nq9vz_iQ3SlC76IyRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779632805305-vm86o55s0eh98f0vgq1hn9cuem5m5cm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
